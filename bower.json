@@ -1,0 +1,15 @@
+{
+  "name": "scc",
+  "homepage": "https://github.com/Bobby71/scc",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
